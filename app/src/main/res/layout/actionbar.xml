@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="50dp"
+	android:background="@drawable/acbar_bg">
+
+	<TextView
+		android:id="@+id/btn_home"
+		android:layout_width="wrap_content"
+		android:layout_height="50dp"
+		android:layout_alignParentLeft="true"
+		android:layout_centerVertical="true"
+		android:text="STUCOM"
+		android:textColor="#000000"
+		android:background="@android:color/transparent"
+		android:typeface="serif"
+		android:gravity="center"
+		android:layout_marginLeft="5dp"/>
+
+	<TextView
+		android:id="@+id/title_text"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="10dp"
+		android:layout_toRightOf="@+id/btn_home"
+		android:gravity="center"
+		android:textColor="#fff"
+		android:textStyle="bold"
+		android:background="@drawable/ic_launcher"
+		android:layout_marginTop="3dp"/>
+
+</RelativeLayout>
+

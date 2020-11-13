@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center"
+	android:background="@drawable/lin_1bg">
+
+	<LinearLayout
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:orientation="vertical"
+		android:background="@drawable/image_4"
+		android:layout_gravity="center"
+		android:gravity="center">
+
+		<LinearLayout
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:orientation="vertical"
+			android:layout_marginLeft="45dp"
+			android:layout_marginTop="49dp">
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:text="STUCOM"
+				android:textColor="#6F32F1"
+				android:typeface="serif"
+				android:textSize="45sp"
+				android:gravity="left"/>
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="wrap_content"
+				android:text="A Companion For Students"
+				android:padding="10dp"
+				android:layout_marginLeft="50dp"
+				android:textColor="#000000"/>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+</LinearLayout>
+

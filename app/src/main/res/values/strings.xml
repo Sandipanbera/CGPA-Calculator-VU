@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stucom</string>
+    <string name="header_1">SGPA ➡ CGPA</string>
+	<string name="subheader_1">Enter Your All Marks</string>
+    <string name="cgpa_res">HERE IS YOUR CGPA :: </string>
+	<string name="per_desc">CGPA!?! Not Familiar?
+		Wanna Know Your Marks In Percentage?
+		OK! "Stucom" Got You Covered.</string>
+	<string name="cgpa_per_res">PERCENTAGE ::</string>
+	<string name="per_res"></string>
+	<string name="add">Add</string>
+	<string name="about">Developer</string>
+	<string name="hiw">How It Works</string>
+	<string name="exit">Exit</string>
+	<string name="devabout">Developed and Designed By</string>
+	<string name="dev">DevSan</string>
+	<string name="feed_email">DevSan</string>
+	<string name="working">
+	■This Application has been made keeping in mind only the Vidyasagar University(VU) UG students. 	
+	■CGPA and Percentage Calculation Method Is Based On VU Official Guidelines.
+	</string>
+	<string name="guide">
+	■Enter all SGPA of your Semester exams you have with corresponding semester credit.
+	■Rest of SGPA and Credit sections fill with "0".
+	■Default Credit values you can see as Hint in credit input boxes.
+	■Enter Credit Value Correctly According To Your Course and Subject.
+	■For Reference About Credit Visit VU Official Site.Link Given Below.
+	■Deafult Credit Value For Honours Course Is Given As Hint.
+	■Please Cross Check Details Before Proceeding.
+	</string>
+	<string name="feed"> Share Your Valuable Opinion,Suggestions and Feedback Through Developer Option.</string>
+		<string
+			name="vulink"><a href="http://apps.vidyasagar.ac.in/DownloadCenter/Default.aspx">VU(Syllabus)</a></string>
+</resources>
